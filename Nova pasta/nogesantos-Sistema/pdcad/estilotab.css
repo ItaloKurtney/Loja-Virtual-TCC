@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;900&display=swap');
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-image: url(logoss.png);
+    background-repeat: no-repeat;
+    background-size: 169px;
+    background-position: left;
+    height: 199px;
+    color: black;
+    font-family: 'Trebuchet MS';
+}
+table{
+    background: transparent;
+    border-color: rgb(125, 170, 221);
+    border-style:double;
+    padding: 100px;
+    box-shadow: 1px 2px 11px 4px rgb(14 55 54 / 15%);
+    border-radius: 20px;
+    font-size: 20px;
+    width:1350px;
+    margin:auto;
+    padding: 40px;
+    height: 1px;
+    font-family: 'Trebuchet MS';
+}
+tr{
+    text-align: center;
+    color: #000;
+    font-size: 25px;
+    font-family: 'Trebuchet MS';
+}
